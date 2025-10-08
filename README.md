@@ -8,7 +8,7 @@
 - 🎓 School student exploring tech  
 - 🛠 Learning Android development & Custom ROMs  
 - 🐍 Small steps with **Python** & **Java**  
-- 🎬 Huge fan of **Chainsaw Man** 💥  
+- 🎬 Huge fan of **Anime** 💥  
 
 ---
 
