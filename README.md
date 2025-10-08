@@ -14,8 +14,9 @@
 
 ## 🌌 Aesthetic Vibes  
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7a/37/7c/7a377c170aa55b02b7ce5f69f5cf0f3b.gif" width="400" />
+  <img src="https://4kwallpapers.com/images/wallpapers/demon-slayer-3840x2160-23247.jpg" width="400" style="border-radius: 15px;" />
 </p>
+
 
 ---
 
