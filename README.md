@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm ARYAN  
 
-<!--
-**ARYANGODxDOfficial/ARYANGODxDOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Student | 📱 Learning Android | ⚡ Anime Lover  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me  
+- 🎓 School student exploring tech  
+- 🛠 Learning Android development & Custom ROMs  
+- 🐍 Small steps with **Python** & **Java**  
+- 🎬 Huge fan of **Chainsaw Man** 💥  
+
+---
+
+## 🌌 Aesthetic Vibes  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7a/37/7c/7a377c170aa55b02b7ce5f69f5cf0f3b.gif" width="400" />
+</p>
+
+---
+
+## 🛠 Tech I'm Learning  
+- **Java** (Basics)  
+- **Python** (Basics)  
+- **Android Development**  
+- **Custom ROMs**  
+
+---
+
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://t.me/aryangodxdoff">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">⚡ Crafted with passion & a touch of anime vibes ⚡</p>
