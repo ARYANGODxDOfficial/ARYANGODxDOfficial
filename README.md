@@ -14,7 +14,7 @@
 
 ## 🌌 Aesthetic Vibes
 <p align="center">
-  <img src="https://github.com/ARYANGODxDOfficial/ARYANGODxDOfficial/blob/32a4fd785ccfea0320bc6536d1ef7135c7c3109c/demon-slayer-5120x2880-23247.jpg" width="800" />
+  <img src="https://github.com/ARYANGODxDOfficial/ARYANGODxDOfficial/blob/32a4fd785ccfea0320bc6536d1ef7135c7c3109c/demon-slayer-5120x2880-23247.jpg" width="1000" />
 </p>
 
 
