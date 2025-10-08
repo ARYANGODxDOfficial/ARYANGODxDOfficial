@@ -12,10 +12,11 @@
 
 ---
 
-## 🌌 Aesthetic Vibes  
+## 🌌 Aesthetic Vibes
 <p align="center">
-  <img src="https://4kwallpapers.com/images/wallpapers/demon-slayer-3840x2160-23247.jpg" width="400" style="border-radius: 15px;" />
+  <img src="https://github.com/ARYANGODxDOfficial/ARYANGODxDOfficial/blob/32a4fd785ccfea0320bc6536d1ef7135c7c3109c/demon-slayer-5120x2880-23247.jpg" width="400" />
 </p>
+
 
 
 ---
