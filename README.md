@@ -94,10 +94,6 @@
 
 ### 🏢 Maintained Organizations
 <p align="center">
-  <a href="https://github.com/Matrixx-Bangkk" target="_blank">
-    <img src="https://img.shields.io/badge/Matrixx--Bangkk-🟣%20ROM%20Sources-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/MotoG84-Resources" target="_blank">
     <img src="https://img.shields.io/badge/MotoG84--Resources-📱%20Device%20Trees-00FF9C?style=for-the-badge&logo=github&logoColor=black" />
   </a>
