@@ -109,9 +109,9 @@
 <p align="center">
   <a href="https://github.com/ARYANGODxDOfficial">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ARYANGODxDOfficial/ARYANGODxDOfficial-/blob/output/pacman-contribution-graph-dark.svg?raw=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/ARYANGODxDOfficial/ARYANGODxDOfficial-/blob/output/pacman-contribution-graph.svg?raw=true">
-      <img alt="Pacman Contribution Graph" src="https://github.com/ARYANGODxDOfficial/ARYANGODxDOfficial-/blob/output/pacman-contribution-graph.svg?raw=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ARYANGODxDOfficial/ARYANGODxDOfficial/blob/output/pacman-contribution-graph-dark.svg?raw=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/ARYANGODxDOfficial/ARYANGODxDOfficial/blob/output/pacman-contribution-graph.svg?raw=true">
+      <img alt="Pacman Contribution Graph" src="https://github.com/ARYANGODxDOfficial/ARYANGODxDOfficial/blob/output/pacman-contribution-graph.svg?raw=true">
     </picture>
   </a>
 </p>
