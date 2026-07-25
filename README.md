@@ -97,10 +97,6 @@
   <a href="https://github.com/MotoG84-Resources" target="_blank">
     <img src="https://img.shields.io/badge/MotoG84--Resources-📱%20Device%20Trees-00FF9C?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Bangkk-Sources" target="_blank">
-    <img src="https://img.shields.io/badge/Bangkk--Sources-⚙️%20Device%20Sources-orange?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F3FBF,100:00FF9C&height=2" width="100%" />
